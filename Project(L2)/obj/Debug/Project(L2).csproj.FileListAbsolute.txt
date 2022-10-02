@@ -1,0 +1,8 @@
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 2\Project(L2)\Project(L2)\bin\Debug\Project(L2).exe.config
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 2\Project(L2)\Project(L2)\bin\Debug\Project(L2).exe
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 2\Project(L2)\Project(L2)\bin\Debug\Project(L2).pdb
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 2\Project(L2)\Project(L2)\obj\Debug\Project(L2).csproj.AssemblyReference.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 2\Project(L2)\Project(L2)\obj\Debug\Project(L2).csproj.SuggestedBindingRedirects.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 2\Project(L2)\Project(L2)\obj\Debug\Project(L2).csproj.CoreCompileInputs.cache
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 2\Project(L2)\Project(L2)\obj\Debug\Project(L2).exe
+D:\University Work\Visual Porgramming\Lab Tasks\LAB 2\Project(L2)\Project(L2)\obj\Debug\Project(L2).pdb
